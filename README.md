@@ -68,15 +68,19 @@ The build is minified and the filenames include the hashes.\
 
 
 
-### 🎤 **Voice-Powered Interface**If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🤖 **Gen AI Powered Stories**
+- **FREE Hugging Face Models**: GPT-2 & TinyLlama (no API key required!)
+- **Unique Stories Every Time**: Click "✨ New" to regenerate with different narrative
+- **Story-Related Code Comments**: Code snippets connect to story narrative
+- **Dynamic Generation**: Stories change based on your preferences and level
+- **Voice/Text Input**: Say or type any topic to get instant AI explanations
+- **Multiple Model Fallback**: Automatically tries backup models if primary is busy
 
+### 🎤 **Voice-Powered Interface**
 - **Speech-to-Text**: Record voice commands like "teach me arrays"
-
-- **Text-to-Speech**: Listen to stories narrated with adjustable voice settingsInstead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
+- **Text-to-Speech**: Listen to stories narrated with adjustable voice settings
 - **IIT Madras ASR API** integration with Web Speech API fallback
-
-- **Voice commands** trigger automatic story generation for requested topicsYou don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Voice commands** trigger automatic AI story generation for requested topics
 
 
 
