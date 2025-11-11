@@ -489,7 +489,7 @@ We welcome contributions! Please follow these steps:
 | Name | Role | GitHub |
 |------|------|--------|
 | **Rohit** | Lead Developer & Architecture | [@Rampyaaryans](https://github.com/Rampyaaryans) |
-| **Preeti** | UI/UX Design & Frontend | - |
+| **Preeti** | UI/UX Design & Frontend | [@CodeByPreeti](@https://github.com/CodeByPreeti)|
 | **Tamannah** | Backend Integration & Testing | - |
 | **Poonam** | Content Creation & Documentation | - |
 
@@ -544,9 +544,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Repository**: [https://github.com/Rampyaaryans/Minor-Project-7th-Sem](https://github.com/Rampyaaryans/Minor-Project-7th-Sem)
+**Project Repository**: [ https://github.com/CodeByPreeti/dsa-storyteller.git ]( https://github.com/CodeByPreeti/dsa-storyteller)
 
-**Issues**: [Report a bug](https://github.com/Rampyaaryans/Minor-Project-7th-Sem/issues)
+**Issues**: [Report a bug]( https://github.com/CodeByPreeti/dsa-storyteller.git /issues)
 
 ---
 
